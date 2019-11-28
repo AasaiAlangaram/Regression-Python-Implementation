@@ -2,5 +2,7 @@
 
 1.Linear Regression with one variable - Predict profits for a food truck. \
 2.Linear regression with multiple variables - Predict the price of houses. \
-3.Logistic Regression - predict whether a student gets admitted into a university.
+3.Logistic Regression - predict whether a student gets admitted into a university. \
+4.Regularized Logistic Regression - predict whether microchips from a fabrication plant passes quality assur-
+ance (QA).
 
